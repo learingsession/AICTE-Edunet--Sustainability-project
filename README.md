@@ -11,7 +11,7 @@ It helps identify pollution levels and supports sustainable urban development by
 ##  Objective  
 - To analyze air pollution data of Bengaluru city.  
 - To predict PM2.5 and PM10 air quality levels.  
-- To promote sustainable cities through environmental data analysis.
+- To promote sustainable cities through environmental data analysis
 
 ##  Tools & Technologies  
 - *Python (Pandas, Scikit-learn, Matplotlib)*  
