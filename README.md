@@ -16,7 +16,7 @@ It helps identify pollution levels and supports sustainable urban development by
 ##  Tools & Technologies  
 - *Python (Pandas, Scikit-learn, Matplotlib)*  
 - *Google Colab* for coding and training the model  
-- *Dataset:* Air Quality Data (India 2015–2020)  
+- *Dataset:* Air Quality Data [India 2015–2020]  
 
 ##  Outcome  
 The trained AI model predicts air quality based on input parameters and helps track pollution trends.  
