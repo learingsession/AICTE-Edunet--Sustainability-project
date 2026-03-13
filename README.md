@@ -5,7 +5,7 @@ README.md
 ### City: Bengaluru  
 
 ##  Project Description  
-This project focuses on predicting *air quality levels* in Bengaluru using *Artificial Intelligence (AI)* and *Machine Learning (ML)* techniques.  
+This project focuses on predicting *air quality levels* in Bengaluru using *Artificial Intelligence (AI)* and *Machine Learning (ML)* techniques..
 It helps identify pollution levels and supports sustainable urban development by improving air quality awareness.
 
 ##  Objective  
@@ -22,14 +22,14 @@ It helps identify pollution levels and supports sustainable urban development by
 The trained AI model predicts air quality based on input parameters and helps track pollution trends.  
 This project supports *UN Sustainable Development Goal 13 – Climate Action*.  
 
-##  Files in this Repository  
+## Files in this Repository  
 | File Name | Description |
 | Air_Quality_Prediction.ipynb | AI/ML model notebook |
 | Problem_Statement.md | Contains the problem statement |
 | README.md | Project documentation summary |
 
 ##  Future Scope  
-- Include real-time sensor data  
+- Include real time sensor data  
 - Integrate with a web or mobile app dashboard  
 - Expand to multiple cities across India
 
