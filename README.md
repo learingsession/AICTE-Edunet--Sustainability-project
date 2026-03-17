@@ -1,7 +1,7 @@
 README.md
 #  AICTE Edunet Foundation Internship Project:
 ### Project Title: Air Quality Prediction for Sustainable Smart Cities  
-### Student Name:Punya Gowda  
+### Student Name:Punya Gowda G D
 ### City: Bengaluru  
 
 ##  Project Description  
