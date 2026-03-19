@@ -6,7 +6,7 @@ README.md
 
 ##  Project Description  
 This project focuses on predicting *air quality levels* in Bengaluru using *Artificial Intelligence (AI)* and *Machine Learning (ML)* techniques..
-It helps identify pollution levels and supports sustainable urban development by improving air quality awareness.
+It helps identify pollution levels and supports sustainable urban development by improving air quality awareness
 
 ##  Objective  
 - To analyze air pollution data of Bengaluru city.  
